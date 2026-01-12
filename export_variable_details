@@ -1,0 +1,10 @@
+export DB_USER=appuser
+export DB_HOST=127.0.0.1
+export DB_PORT=3306
+export DB_NAME=mydb
+export BACKUP_DIR=/mnt/e/new
+export DB_PASSWORD=StrongPassword@123
+export AWS_ACCESS_KEY_ID=AKIASGFHDAD
+export AWS_SECRET_ACCESS_KEY=aOut2iTGUOA6qcwZO9
+export AWS_DEFAULT_REGION=eu-north-1
+export S3_BUCKET_NAME=doni-aws-s3

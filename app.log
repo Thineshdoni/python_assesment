@@ -1,0 +1,12 @@
+2026-01-11 20:20:46,326 - INFO - log configured
+2026-01-11 20:20:46,326 - ERROR - Missing required database environment variables
+2026-01-11 20:22:56,050 - INFO - log configured
+2026-01-11 20:22:56,050 - INFO - Backup started
+2026-01-11 20:22:56,056 - INFO - Backup completed: /mnt/e/new/mydb-20260111-202256.sql.gz
+2026-01-11 20:22:56,064 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-01-11 20:23:02,842 - ERROR - Backup S3 upload failed: expected string or bytes-like object, got 'NoneType'
+2026-01-11 20:25:24,162 - INFO - log configured
+2026-01-11 20:25:24,162 - INFO - Backup started
+2026-01-11 20:25:24,167 - INFO - Backup completed: /mnt/e/new/mydb-20260111-202524.sql.gz
+2026-01-11 20:25:24,175 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-01-11 20:25:34,214 - INFO - Backup uploaded to S3: s3://doni-aws-s3/mydb-20260111-202524.sql.gz
